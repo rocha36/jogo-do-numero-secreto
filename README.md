@@ -4,7 +4,7 @@ Bem-vindo ao repositório do **Jogo do Número Secreto**! Este é um projeto sim
 
 ## Como Jogar
 
-1. O jogo gera um número secreto aleatório entre 1 e 100.
+1. O jogo gera um número secreto aleatório entre 1 e 10.
 2. O jogador deve inserir um número em um campo de entrada para tentar adivinhar o número secreto.
 3. O jogo fornece dicas, informando se o número inserido é maior ou menor que o número secreto.
 4. O jogo continua até que o jogador acerte o número secreto.
